@@ -1,0 +1,6 @@
+deployment
+.vs
+.git
+CronSample/bin
+CronSample/obj
+CronSample/out
